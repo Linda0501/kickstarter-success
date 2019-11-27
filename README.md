@@ -1,5 +1,3 @@
-# Factors in Kickstarter Success
+DSS Project 
 
-files:  
-Kickstarter_Analysis - Sean Chen  
-Kickstarter-success - Dominic Liu  
+Team: Clark Wang, Sean Chen, Dominic Liu, Linda Deng, Sneha Somaya, Neha Nagabothu
